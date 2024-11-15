@@ -1,1 +1,4 @@
 # Pandas-Challenge
+When analyzing the relationship between school spending and performance, the data suggests that higher per student spending does not always correlate with better academic outcomes. In fact, charter schools despite having lower per student budgets tend to perform better in terms of overall passing rates compared to district schools. This is contrary to the assumption that more funding should lead to better performance.
+
+When analyzing school size, smaller schools (<1000 students) and larger schools (2000-5000 students) show to have a similar performance trend. Moreover, medium-sized schools (1000-2000 students) outperform both smaller and larger schools in terms of passing rates, especially in reading and math. This suggests that there may be an optimal school size for educational success, where larger schools may struggle with the diverse needs of more students, while smaller schools may not have the same resources or community support.
